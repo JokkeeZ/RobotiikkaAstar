@@ -5,7 +5,7 @@
 ## Käyttöohjeet
 - Kloonaa projekti
 	- `git clone https://github.com/JokkeeZ/RobotiikkaAstar.git`
-
+- Lisää kloonattu kansio Unity Hubiin
 - Avaa scene Unityssä `File` > `Open Scene` -> `Scenes/SampleScene.unity`
 - AStar valikosta: `Generoi ruudukko`
 - Aseta jollekkin nodelle `State` -> `Start` ja toiselle `State` -> `End`
