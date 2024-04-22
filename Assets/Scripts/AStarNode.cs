@@ -28,7 +28,7 @@ public class AStarNode : MonoBehaviour
 	public float H;
 	public AStarNode Parent;
 
-	public readonly List<AStarNode> Neighbors = new();
+	public List<AStarNode> Neighbors = new();
 	public Material[] ColorMaterials;
 
 	public void SetColor(NodeColor color) 
